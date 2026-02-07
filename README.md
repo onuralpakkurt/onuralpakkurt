@@ -4,7 +4,7 @@
 
 
 - 🎓 I’m currently a **4th-year student** building immersive simulations and AI models.
-- 🔭 I’m currently working on **Low-Dose CT Image Denoising with GANs** & **VR Phobia Therapy Simulations**.
+- 🔭 I’m currently working on **Low-Dose CT Image Denoising with GANs**
 - 📢 I presented my academic research at **EEMKON 2026**.
 
 ---
